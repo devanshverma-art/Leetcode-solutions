@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devanshverma-art/Leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
