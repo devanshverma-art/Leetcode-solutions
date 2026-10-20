@@ -6,6 +6,8 @@ class Solution {
         {
            if((long)i*i==num)
            return true;
+           else if(i*i>num)
+           break;
         }
         return false;
         }
